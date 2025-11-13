@@ -30,4 +30,4 @@ This project demonstrates Python fundamentals like string manipulation, regex us
 ### 🔹 Option 1: Run Locally
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/password-strength-checker.git
+   git clone (https://github.com/Neelima-git-collab/Password_Strength_Checker.git)
